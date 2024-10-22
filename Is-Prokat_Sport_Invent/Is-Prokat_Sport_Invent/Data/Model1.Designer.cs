@@ -1,4 +1,4 @@
-﻿// Создание кода T4 для модели "C:\Users\comcuru\Desktop\Pract\Is-Prokat_Sport_Invent\Is-Prokat_Sport_Invent\Data\Model1.edmx" включено. 
+﻿// Создание кода T4 для модели "C:\Users\comcuru\Desktop\Pract\KT5_Module5_Ashurov_Roman_ISP411\Is-Prokat_Sport_Invent\Is-Prokat_Sport_Invent\Data\Model1.edmx" включено. 
 // Чтобы включить формирование кода прежних версий, измените значение свойства "Стратегия создания кода" конструктора
 // на "Legacy ObjectContext". Это свойство доступно в окне "Свойства", если модель
 // открыта в конструкторе.

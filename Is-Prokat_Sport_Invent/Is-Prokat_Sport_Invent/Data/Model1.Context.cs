@@ -20,7 +20,7 @@ namespace Is_Prokat_Sport_Invent.Data
             : base("name=UserDataEntities1")
         {
         }
-        
+
         public static UserDataEntities1 GetContext()
         {
             if (_context == null)
@@ -29,6 +29,7 @@ namespace Is_Prokat_Sport_Invent.Data
             }
             return _context;
         }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();

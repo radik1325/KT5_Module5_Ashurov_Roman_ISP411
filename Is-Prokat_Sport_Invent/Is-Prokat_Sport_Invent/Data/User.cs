@@ -24,7 +24,7 @@ namespace Is_Prokat_Sport_Invent.Data
         public string UserPassword { get; set; }
         public string UserPhone { get; set; }
         public string UserPasport { get; set; }
-        public System.DateTime UserDateBirth { get; set; }
+        public Nullable<System.DateTime> UserDateBirth { get; set; }
         public Nullable<System.DateTime> UserLastVxodDate { get; set; }
         public Nullable<int> UserTypeVxodId { get; set; }
         public int UserGenderId { get; set; }

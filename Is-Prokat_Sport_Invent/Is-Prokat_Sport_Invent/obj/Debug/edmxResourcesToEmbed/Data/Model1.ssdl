@@ -43,9 +43,9 @@
     <Property Name="UserEmail" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="UserLogin" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="UserPassword" Type="nvarchar" MaxLength="50" Nullable="false" />
-    <Property Name="UserPhone" Type="nvarchar" MaxLength="50" />
-    <Property Name="UserPasport" Type="nvarchar" MaxLength="50" Nullable="false" />
-    <Property Name="UserDateBirth" Type="date" Nullable="false" />
+    <Property Name="UserPhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserPasport" Type="nvarchar" MaxLength="50" />
+    <Property Name="UserDateBirth" Type="date" />
     <Property Name="UserLastVxodDate" Type="date" />
     <Property Name="UserTypeVxodId" Type="int" />
     <Property Name="UserGenderId" Type="int" Nullable="false" />

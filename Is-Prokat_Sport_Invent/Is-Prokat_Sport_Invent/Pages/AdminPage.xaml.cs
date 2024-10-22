@@ -25,5 +25,10 @@ namespace Is_Prokat_Sport_Invent.Pages
             InitializeComponent();
             ListUser.ItemsSource = Data.UserDataEntities1.GetContext().User.ToList();
         }
+
+        private void Adduser_Button_Click(object sender, RoutedEventArgs e)
+        {
+            Classes.Manager.MainFrame.Navigate(new Pages.AddPage());
+        }
     }
 }

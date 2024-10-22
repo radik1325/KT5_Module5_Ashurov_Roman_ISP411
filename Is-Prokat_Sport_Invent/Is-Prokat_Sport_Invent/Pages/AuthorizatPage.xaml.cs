@@ -27,8 +27,7 @@ namespace Is_Prokat_Sport_Invent.Pages
 
         private void VxodButton_Click(object sender, RoutedEventArgs e)
         {
-            LogimBox.Text = "akimovya";
-            PasswordBox.Password = "bn069Caj";
+            
             StringBuilder erors = new StringBuilder();
             if(PasswordBox.Password == "")
             {

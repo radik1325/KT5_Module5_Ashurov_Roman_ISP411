@@ -46,9 +46,9 @@
     <Property Name="UserEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="UserLogin" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="UserPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="UserPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
-    <Property Name="UserPasport" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="UserDateBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="UserPhone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UserPasport" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserDateBirth" Type="DateTime" Precision="0" />
     <Property Name="UserLastVxodDate" Type="DateTime" Precision="0" />
     <Property Name="UserTypeVxodId" Type="Int32" />
     <Property Name="UserGenderId" Type="Int32" Nullable="false" />
